@@ -2,9 +2,11 @@ Android App Development Tutorials By ITechnospot.com
 
 Tutorials :
 
-1)ToggleSwitch
+1)Activity Intent
 
-2)Notification
+2)ToggleSwitch
+
+3)Notification
 
 More Coming Soon...
 

@@ -4,6 +4,8 @@ Tutorials :
 
 1)ToggleSwitch
 
+2)Notification
+
 More Coming Soon...
 
 Tools Required:

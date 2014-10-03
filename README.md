@@ -3,6 +3,7 @@ Android App Development Tutorials By ITechnospot.com
 Tutorials :
 
 1)ToggleSwitch
+2)Notification
 
 More Coming Soon...
 
